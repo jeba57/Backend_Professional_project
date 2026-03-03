@@ -11,5 +11,10 @@
   ],
   "author": "jeba khatun",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
+
